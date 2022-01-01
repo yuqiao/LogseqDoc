@@ -3,7 +3,10 @@
 - ## 页面布局
 - ## 快捷键
 - # 设置
-- ## 怕诶只
+- ## 日记格式
+	- 在设置edn中修改
+	  :date-formatter "yyyy-MM-dd"
+	  放到commands[]
 -
 - # 参考资料
 -
