@@ -7,7 +7,7 @@
 	- 在设置edn中修改
 	  :date-formatter "yyyy-MM-dd"
 	  放到commands[]
-- ==
+-
 - # 参考资料
 -
 - [[Logseq入门到精通@bilibili]]
