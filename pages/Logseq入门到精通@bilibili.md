@@ -1,0 +1,59 @@
+-
+	- 👉P1 logseq是什么？
+	  collapsed:: true
+		- [知识图谱演示](https://xutuan.vercel.app/#/page/logseq%E4%BD%BF%E7%94%A8%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB)
+		- [GitHub中发布Logseq的release版本](https://github.com/logseq/logseq/releases)
+		- [GitHub release下载加速](https://d.serctl.com/)
+		- [Logseq-Web端](https://logseq.com/#/)
+		- [Logseq中文社区](https://cn.logseq.com/)
+	- 👉P2 logseq使用准备-基于本地使用
+	- 👉P3 logseq使用准备-基于多端同步使用
+		- [GitHub官网](https://github.com/)
+		- [Logseq 系列教程 | 2.1 开始上手(GitHub 同步版)](https://zhuanlan.zhihu.com/p/370564366)
+		- [Logseq-我的上手历程(一):注册与登录](https://zhuanlan.zhihu.com/p/349944337/)
+	- 👉P4 logseq使用准备-页面布局及快捷键配置
+	- 👉P5 logseq基本用法-帮助文档使用及界面美化
+		- [Logseq小白系列教程入门篇一](https://zhuanlan.zhihu.com/p/343854552)
+		- [logseq帮助文档](https://logseq.github.io/#/page/Contents)
+	- 👉P6 logseq基本用法-编辑模式：大纲加持Markdown
+		- ![](https://cdn.jsdelivr.net/gh/springrain1/image/img/Logseq_Outline_of_operation.png)
+		- [emoji网址1](https://emojipedia.org/)
+		- [emoji网址2](https://emojiwiz.com/zh/)
+		- [神器中的神器org-mode之入门篇](https://www.cnblogs.com/qlwy/archive/2012/06/15/2551034.html)
+	- 👉P7 logseq基本用法-Block块的基本功能
+		- {{bilibili(https://www.bilibili.com/video/BV1bT4y1f71n?zw)}}
+	- 👉P8 logseq基本用法-时间管理&文件管理&PDF阅读批注
+		- [OKR + GTD + Note => Logseq](https://zhuanlan.zhihu.com/p/369386414)
+		- [Logseq: 现已上线PDF阅读工具](https://zhuanlan.zhihu.com/p/397352305)
+	- 👉P9 logseq基本用法-闪卡的制作
+		- [Logseq: 现已加入间隔重复系统(SRS)](https://zhuanlan.zhihu.com/p/392408529)
+	- 👉P10 logseq基本用法-查询功能：全文检索&Query引文检索
+		- {{bilibili(https://www.bilibili.com/video/BV1eq4y1N7Su?zw)}}
+	- 👉P11 logseq基本用法-Page与Graph的基本功能
+		- {{bilibili(https://www.bilibili.com/video/BV14q4y1V7Zp?zw)}}
+	- 👉P12 logseq基本用法-插件
+		- Zotero文献管理集成
+			- {{bilibili(https://www.bilibili.com/video/BV1E3411q7xe?zw)}}
+			- [Logseq: 现已支持Zotero文献协同](https://zhuanlan.zhihu.com/p/395008689)
+		- [Logseq插件资源页面](https://github.com/logseq/awesome-logseq)
+	- 👉P13 logseq基本用法-导入与导出
+		- [如何发布logseq成为博客](https://zhuanlan.zhihu.com/p/344165645)
+	- 👉P14 logseq与其它软件联动1
+		- [[工具下载网址]] 1
+			- [WorkFlowy官网](https://workflowy.com/)
+			- [滴答清单官网](https://www.dida365.com/)
+			- [XMind官网](https://www.xmind.cn/)
+			- [印象笔记官网](https://www.yinxiang.com/)
+			- [GitHub中发布PicGo的release版本](https://github.com/Molunerfinn/PicGo/releases)
+			- [Typora官网](https://www.typora.io/)
+		- [使用PicGo搭建GitHub图床](https://blog.csdn.net/weixin_42875245/article/details/108654079)
+	- 👉P15 logseq与其它软件联动2
+		- [[工具下载网址]] 2
+			- [Obsidian官网](https://obsidian.md/)
+			- [Calibre官网](https://calibre-ebook.com/zh_CN/download)
+			- [Bookxnote官网](http://www.bookxnote.com/)
+			- [Notepad++官网](http://www.notepadplus.com.cn/)
+			- [Anki官网](https://apps.ankiweb.net/)
+		- [Logseq小白系列教程入门篇二——二、用 Logseq 阅读 EPUB](https://zhuanlan.zhihu.com/p/405764984)
+		- [Logseq2Anki中转网站](https://hintsnet.com/tools/roam2anki/index.html)
+		- {{bilibili(https://www.bilibili.com/video/BV1jr4y127Jj?p=2)}}
