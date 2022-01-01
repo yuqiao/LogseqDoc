@@ -8,6 +8,8 @@
  ;; Value is either ":now" for NOW/LATER style,
  ;; or ":todo" for TODO/DOING style.
  :preferred-workflow :now
+ 
+ :date-formatter "yyyy-MM-dd"
 
  ;; The app will ignore those directories or files.
  ;; E.g. "/archived" "/test.md"
