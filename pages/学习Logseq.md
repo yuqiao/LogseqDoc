@@ -14,7 +14,8 @@
 	- 记录灵感
 	- 读书笔记
 - # 常见插件
-	- - []calendar: https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0
+	- [journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
+	  -
 - # 参考资料
 -
 - [[Logseq入门到精通@bilibili]]
