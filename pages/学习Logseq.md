@@ -3,10 +3,13 @@
 - ## 页面布局
 - ## 快捷键
 - # 设置
-- ## 日记格式
-	- 在设置edn中修改
-	  :date-formatter "yyyy-MM-dd"
-	  放到commands[]
+	- ## 主题
+		- ```
+		  ```
+	- ## 日记格式
+		- 在设置edn中修改
+		  :date-formatter "yyyy-MM-dd"
+		  放到commands[]
 - # 常见场景
 	- 日记
 	- 任务管理
