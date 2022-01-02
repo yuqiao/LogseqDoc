@@ -5,6 +5,7 @@
 - # 设置
 	- ## 主题
 		- ```
+		  @import url('https://cdn.jsdelivr.net/gh/LeonWong0609/logseq-default-dark-0-saturation@main/custom.css');
 		  ```
 	- ## 日记格式
 		- 在设置edn中修改
