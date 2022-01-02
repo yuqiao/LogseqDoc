@@ -31,6 +31,9 @@
 	- 记录灵感
 		- 用双向链接串联碎片灵感
 	- 读书笔记
+		- pdf作为附近
+		- 人物卡
+		-
 - # 常见插件
 	- [日记日历 journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
 	- logseq-plugin-bullet-threading-1.0.0
