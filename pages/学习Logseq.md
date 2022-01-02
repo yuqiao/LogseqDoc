@@ -18,10 +18,10 @@
 	- 记录灵感
 	- 读书笔记
 - # 常见插件
-	- [journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
+	- [日记日历 journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
 	- logseq-plugin-bullet-threading-1.0.0
 	- [awesome logseq](https://hub.fastgit.org/logseq/awesome-logseq)
-	-
+	- logseq-plugin-heatmap
 - # 参考资料
 -
 - [[Logseq入门到精通@bilibili]]
