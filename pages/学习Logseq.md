@@ -36,7 +36,7 @@
 			- 人物卡
 			- 背景卡
 			- 故事卡
-		- pdf 高亮
+		- pdf 高亮选中并标注原文
 - # 常见插件
 	- [日记日历 journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
 	- logseq-plugin-bullet-threading-1.0.0
