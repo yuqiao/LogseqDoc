@@ -30,7 +30,6 @@
 			- 若能做工作日报后面加上week标签，就能根据这个写周报
 	- 记录灵感
 		- 用双向链接串联碎片灵感
-		-
 	- 读书笔记
 - # 常见插件
 	- [日记日历 journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
