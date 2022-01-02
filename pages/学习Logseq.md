@@ -28,9 +28,9 @@
 			- 点击工作日报，就能看到所有工作日报关键词的内容
 			- 点击工作复盘，就可以把工作复盘从所有的工作日报中筛选出来
 			- 若能做工作日报后面加上week标签，就能根据这个写周报
-		-
-		-
 	- 记录灵感
+		- 用双向链接串联碎片灵感
+		-
 	- 读书笔记
 - # 常见插件
 	- [日记日历 journals calendar](https://github.com/xyhp915/logseq-journals-calendar/releases/tag/0.10.0)
