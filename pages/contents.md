@@ -31,4 +31,5 @@
 	- ### 其他
 - ## 400 - Archive
 	- ### templates
-		- Daily Notes
+		- [[dailyNote模板]]
+		-
