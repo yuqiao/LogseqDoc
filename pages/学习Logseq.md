@@ -26,6 +26,7 @@
 					- 主题内全选： Cmd + A
 					- 选择所有主题： Cmd + Shift +A
 	- ### Block基本用法
+	  collapsed:: true
 		- 自我管理系统
 		- ((61d29940-dbf2-4456-8e13-4ff1ad454834)) 快引用使用
 		- 斜杠/
@@ -33,9 +34,10 @@
 			- 嵌入视频
 				- {{bilibili https://www.bilibili.com/video/BV1144y14764?p=7&spm_id_from=pageDriver}}
 				-
-		- 任务管理
-			- WAITING  等待别人的反馈
-			-
+	- ## 任务管理
+		- WAITING  等待别人的反馈
+		-
+		-
 		-
 -
 - # 设置
