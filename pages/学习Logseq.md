@@ -22,7 +22,9 @@
 				- [HTML链接](http://baidu.com)
 			- 编辑
 				- 主题内换行
-				-
+				- 选择：
+					- 主题内全选： Cmd + A
+					- 选择所有主题： Cmd + Shift +A
 		-
 		-
 -
