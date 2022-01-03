@@ -31,7 +31,8 @@
 		- 斜杠/
 			- [[draws/2022-01-03-14-57-05.excalidraw]]
 			- 嵌入视频
-				- 、
+				- {{bilibili https://www.bilibili.com/video/BV1144y14764?p=7&spm_id_from=pageDriver}}
+				-
 		- ---
 		-
 -
