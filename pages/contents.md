@@ -1,2 +1,6 @@
 - # 000-Inbox
+- # 100 - Projects
+- # 200 - Areas
+- # 300 - Resources
+- # 400 - Archive
 -
