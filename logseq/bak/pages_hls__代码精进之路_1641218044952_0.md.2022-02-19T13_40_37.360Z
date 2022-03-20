@@ -1,0 +1,75 @@
+file:: [代码精进之路_1641218044952_0.pdf](../assets/代码精进之路_1641218044952_0.pdf)
+file-path:: ../assets/代码精进之路_1641218044952_0.pdf
+
+- 无论是对于人名，还是企业名、产品名，命名都有着巨大的力量。
+  ls-type:: annotation
+  hl-page:: 42
+  id:: 61d30079-efd4-4132-a9ad-8f321b10335d
+- Martin   Fowler也表示过，他最喜欢的一句谚语是：“在计算机科学中有两件难事：缓存失效和命名
+  ls-type:: annotation
+  hl-page:: 43
+  id:: 61d300c3-d0c4-48e2-8e27-9b8670ec68da
+- 辅助类是辅佐实体类一起完成业务逻辑的，其命名要能够通过后缀来体现功能
+  ls-type:: annotation
+  hl-page:: 45
+  id:: 61e3ef95-ad2e-447f-8187-22a9475ff558
+- 确保团队在内部的所有交流、模型、代码和文档中都要使用同一种编程语言
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61e3f34c-1634-4ce5-bcba-75591b4729bd
+- 自明性，就是在不借助其他辅助手段的情况下，代码本身就能向读者清晰地传达自身的含义
+  ls-type:: annotation
+  hl-page:: 51
+  id:: 61e3f3ff-ab09-4259-aa9c-218a7bba85e0
+- 将概念相关的代码放在一起：相关性越强，彼此之间的距离应该越短。
+  ls-type:: annotation
+  hl-page:: 68
+  id:: 61e42bf1-98de-47ed-be19-e51cf971e988
+- 要特别注意日志输出级别
+  ls-type:: annotation
+  hl-page:: 69
+  id:: 61e42d04-7b57-49e5-b6a7-88459ad734d1
+- 针对业务异常和系统异常要做统一的异常处理，类似于AOP，在应用处理请求的切面上进行异常处理收敛
+  ls-type:: annotation
+  hl-page:: 72
+  id:: 61e430d4-6b82-431a-a723-de388e926631
+- 千万不要在业务处理内部到处使用try/catch打印错误日志，这样会使功能代码和业务代码缠绕在一起，让代码显得很凌乱，并且影响代码的可读性
+  ls-type:: annotation
+  hl-page:: 72
+  id:: 61e430fc-ddb8-4b48-a533-e7cdcc901d39
+- 在系统搭建之初就制定好相应的规范
+  ls-type:: annotation
+  hl-page:: 72
+  id:: 61f75a88-26bd-44d3-826a-0ef99fc6fad2
+- 做互联网产品，了解用户的行为和心智很重要。有一句话叫“业务数据化、数据业务化”，即业务要沉淀数据、数据要反哺业务。
+  ls-type:: annotation
+  hl-page:: 75
+  id:: 61f75b95-a948-4070-88d1-6765758ac17b
+- 如果对“过错”不闻不问、熟视无睹、反应迟钝或纠正不力，就会纵容更多的人“去打烂更多的窗户”，极有可能演变成“千里之堤，溃于蚁穴”的恶果
+  ls-type:: annotation
+  hl-page:: 80
+  id:: 61f760ec-c37e-4fa8-9338-c993d2f510f1
+- 混乱会造成复杂，有序会减少复杂度。制定规范是为了从无序走向有序，减少认知成本
+  ls-type:: annotation
+  hl-page:: 81
+  id:: 61f761d1-cbf7-4d5a-9d9b-7459a495f63b
+- 抽象层次一致性（Single Level of Abstration Principle，SLAP）
+  ls-type:: annotation
+  hl-page:: 97
+  id:: 61f8e1e3-4294-4f96-8606-810a9d1bd18c
+- Single Responsibility Principle（SRP）：单一职责原则。Open Close Principle（OCP）：开闭原则。Liskov Substitution Principle（LSP）：里氏替换原则。Interface Segregation Principle（ISP）：接口隔离原则。Dependency Inversion Principle（DIP）：依赖倒置原则。
+  ls-type:: annotation
+  hl-page:: 106
+  id:: 620115ae-cd97-41b9-8b8f-e0ed7c02794b
+- 可扩展性是我们衡量软件质量的一个重要指标
+  ls-type:: annotation
+  hl-page:: 114
+  id:: 620116b7-3e85-4b38-bd5b-44583da9fc15
+- 子类应该可以替换任何基类能够出现的地方
+  ls-type:: annotation
+  hl-page:: 115
+  id:: 620116e2-6c25-4bda-b70d-99d260bc9cba
+- 并且经过替换后，代码还能正常工作。
+  ls-type:: annotation
+  hl-page:: 115
+  id:: 620116eb-1b74-47f9-98bc-014ec2031206

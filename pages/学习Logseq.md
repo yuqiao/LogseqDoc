@@ -35,6 +35,7 @@
 				- {{bilibili https://www.bilibili.com/video/BV1144y14764?p=7&spm_id_from=pageDriver}}
 				-
 	- ### 查询功能
+		- [[Logseq高级查询]]
 		- #+BEGIN_TIP
 		  这是一个提示
 		  #+END_TIP

@@ -1,0 +1,39 @@
+file:: [代码精进之路_1641218044952_0.pdf](../assets/代码精进之路_1641218044952_0.pdf)
+file-path:: ../assets/代码精进之路_1641218044952_0.pdf
+
+- 无论是对于人名，还是企业名、产品名，命名都有着巨大的力量。
+  ls-type:: annotation
+  hl-page:: 42
+  id:: 61d30079-efd4-4132-a9ad-8f321b10335d
+- Martin   Fowler也表示过，他最喜欢的一句谚语是：“在计算机科学中有两件难事：缓存失效和命名
+  ls-type:: annotation
+  hl-page:: 43
+  id:: 61d300c3-d0c4-48e2-8e27-9b8670ec68da
+- 辅助类是辅佐实体类一起完成业务逻辑的，其命名要能够通过后缀来体现功能
+  ls-type:: annotation
+  hl-page:: 45
+  id:: 61e3ef95-ad2e-447f-8187-22a9475ff558
+- 确保团队在内部的所有交流、模型、代码和文档中都要使用同一种编程语言
+  ls-type:: annotation
+  hl-page:: 49
+  id:: 61e3f34c-1634-4ce5-bcba-75591b4729bd
+- 自明性，就是在不借助其他辅助手段的情况下，代码本身就能向读者清晰地传达自身的含义
+  ls-type:: annotation
+  hl-page:: 51
+  id:: 61e3f3ff-ab09-4259-aa9c-218a7bba85e0
+- 将概念相关的代码放在一起：相关性越强，彼此之间的距离应该越短。
+  ls-type:: annotation
+  hl-page:: 68
+  id:: 61e42bf1-98de-47ed-be19-e51cf971e988
+- 要特别注意日志输出级别
+  ls-type:: annotation
+  hl-page:: 69
+  id:: 61e42d04-7b57-49e5-b6a7-88459ad734d1
+- 针对业务异常和系统异常要做统一的异常处理，类似于AOP，在应用处理请求的切面上进行异常处理收敛
+  ls-type:: annotation
+  hl-page:: 72
+  id:: 61e430d4-6b82-431a-a723-de388e926631
+- 千万不要在业务处理内部到处使用try/catch打印错误日志，这样会使功能代码和业务代码缠绕在一起，让代码显得很凌乱，并且影响代码的可读性
+  ls-type:: annotation
+  hl-page:: 72
+  id:: 61e430fc-ddb8-4b48-a533-e7cdcc901d39
